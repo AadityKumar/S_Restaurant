@@ -1,0 +1,12 @@
+footer{
+    background-color: skyblue;
+    padding: 5px;
+    position: unset;
+    
+    
+    bottom: -10;
+   
+    left: 0;
+    width: 100;
+    width: max-content;
+}
